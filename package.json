@@ -4,7 +4,7 @@
   "description": "getting_started_with_webrtc\r ===========================",
   "main": "webrtc_signal_server.js",
   "dependencies": {
-    "websocket": "^1.0.17"
+    "websocket": "^1.0.31"
   },
   "devDependencies": {},
   "scripts": {
